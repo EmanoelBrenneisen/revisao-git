@@ -1,0 +1,10 @@
+body{
+    color: rgb(101, 30, 167);
+    background-color: aqua
+}
+
+#logo img{
+    width: 300px;
+    border: 2px solid #e43b3b;
+    border-radius: 10px;
+}
